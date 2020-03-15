@@ -55,5 +55,6 @@ li.One {
 	height: 423 px;	
 }
 p {
-font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
 }
