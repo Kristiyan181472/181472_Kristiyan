@@ -46,3 +46,14 @@
   padding: 0;
   margin: 0;
 }
+
+li.One {
+	color: aqua
+}
+.IMG-Crime{
+	width: 564 px;
+	height: 423 px;	
+}
+p {
+font-family: 'Poppins', sans-serif;
+}
