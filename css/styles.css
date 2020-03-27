@@ -27,9 +27,6 @@ li .One {
     text-shadow: 0px 0px 0px;
     -webkit-box-shadow: 0px 0px 0px;
     box-shadow: 0px 0px 0px;
-}
-
-.container .header {
     color: #0D333E;
     text-align: center;
     text-decoration: none;
@@ -46,7 +43,6 @@ li .One {
     color: #3D1111;
     text-shadow: 0 0;
     text-transform: uppercase;
-    background-color: #8F7878;
 }
 
 .content .main .nav {
