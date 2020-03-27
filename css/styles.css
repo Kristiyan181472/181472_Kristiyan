@@ -8,25 +8,6 @@ p {
     font-style: normal;
 }
 
-h1 .container .header {
-    color: #0D333E;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0 px;
-    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
-    border-width: thin;
-    border-style: none;
-    border-collapse: collapse;
-}
-
-h2 .main .nav {
-    text-align: center;
-    text-decoration: underline;
-    color: #3D1111;
-    text-shadow: 0 0;
-    text-transform: uppercase;
-}
-
 li .One {
     color: aqua;
 }
@@ -48,7 +29,27 @@ li .One {
     box-shadow: 0px 0px 0px;
 }
 
-.main .content .nav {
+.container .header {
+    color: #0D333E;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0 px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    border-width: thin;
+    border-style: none;
+    border-collapse: collapse;
+}
+
+.nav .main {
+    text-align: center;
+    text-decoration: underline;
+    color: #3D1111;
+    text-shadow: 0 0;
+    text-transform: uppercase;
+    background-color: #8F7878;
+}
+
+.content .main .nav {
     color: #000000;
     background-clip: border-box;
     background-origin: padding-box;
