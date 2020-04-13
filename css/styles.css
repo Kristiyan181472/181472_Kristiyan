@@ -7,10 +7,10 @@ p {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
 }
-p.blocktext {
+p .blocktext {
     margin-left: auto;
     margin-right: auto;
-    width: 8em
+    width: 65em;
 }
 li .One {
     color: aqua;
@@ -19,6 +19,11 @@ li .One {
 .IMG-Crime{
     width: 564 px;
     height: 423 px; 
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
 }
 
 .container {
@@ -36,7 +41,6 @@ li .One {
     text-decoration: none;
     text-indent: 0 px;
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
-    border-width: thin;
     border-style: none;
     border-collapse: collapse;
 }
