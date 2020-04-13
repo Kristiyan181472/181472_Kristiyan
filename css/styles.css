@@ -7,7 +7,11 @@ p {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
 }
-
+p.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
 li .One {
     color: aqua;
 }
